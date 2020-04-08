@@ -1,0 +1,2 @@
+rootProject.name='appTerremoti'
+include ':app'
